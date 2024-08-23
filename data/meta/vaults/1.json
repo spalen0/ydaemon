@@ -15346,6 +15346,19 @@
 					"isGimme": false,
 					"isPoolTogether": false,
 					"isPublicERC4626": false
+				},
+				"riskScore": {
+					"review": 3,
+					"testing": 1,
+					"complexity": 1,
+					"riskExposure": 1,
+					"protocolIntegration": 1,
+					"centralizationRisk": 1,
+					"externalProtocolAudit": 1,
+					"externalProtocolCentralisation": 1,
+					"externalProtocolTvl": 1,
+					"externalProtocolLongevity": 1,
+					"externalProtocolType": 1
 				}
 			}
 		},
@@ -19706,6 +19719,19 @@
 					"isGimme": false,
 					"isPoolTogether": false,
 					"isPublicERC4626": false
+				},
+				"riskScore": {
+					"review": 3,
+					"testing": 1,
+					"complexity": 1,
+					"riskExposure": 1,
+					"protocolIntegration": 1,
+					"centralizationRisk": 1,
+					"externalProtocolAudit": 1,
+					"externalProtocolCentralisation": 1,
+					"externalProtocolTvl": 1,
+					"externalProtocolLongevity": 1,
+					"externalProtocolType": 1
 				}
 			}
 		},
@@ -21899,6 +21925,19 @@
 					"isGimme": false,
 					"isPoolTogether": false,
 					"isPublicERC4626": false
+				},
+				"riskScore": {
+					"review": 3,
+					"testing": 1,
+					"complexity": 1,
+					"riskExposure": 1,
+					"protocolIntegration": 1,
+					"centralizationRisk": 1,
+					"externalProtocolAudit": 1,
+					"externalProtocolCentralisation": 1,
+					"externalProtocolTvl": 1,
+					"externalProtocolLongevity": 1,
+					"externalProtocolType": 1
 				}
 			}
 		},
@@ -25389,6 +25428,19 @@
 					"isGimme": false,
 					"isPoolTogether": false,
 					"isPublicERC4626": false
+				},
+				"riskScore": {
+					"review": 3,
+					"testing": 1,
+					"complexity": 1,
+					"riskExposure": 1,
+					"protocolIntegration": 1,
+					"centralizationRisk": 1,
+					"externalProtocolAudit": 1,
+					"externalProtocolCentralisation": 1,
+					"externalProtocolTvl": 1,
+					"externalProtocolLongevity": 1,
+					"externalProtocolType": 1
 				}
 			}
 		},
